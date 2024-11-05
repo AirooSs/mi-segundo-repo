@@ -1,2 +1,2 @@
-# mi-segundo-repo
-Mi segundo repositorio de Git y ahora también en GitHub
+Repositorio de pruebas
+Mi segundo repositorio de Git y ahora también en GitHub, cambiado a repositorio de pruebas.
